@@ -1,0 +1,2 @@
+# PyCODEPInterclub
+Verification Badminton Competition
